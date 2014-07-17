@@ -1,7 +1,8 @@
 require 'sinatra/base'
+require 'slim'
 
 class AddressBook < Sinatra::Base
   get '/' do
-    'Polar Fortress!'
+    slim :home
   end
 end
