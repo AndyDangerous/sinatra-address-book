@@ -1,3 +1,3 @@
 sinatra-address-book
 ====================
-Anexample program of various Sinatra functionality.
+An example program of various Sinatra functionality.
